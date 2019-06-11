@@ -1,0 +1,35 @@
+Samus Aran,12,13,14
+Pikachu,15,32,4
+Bowser,90,3,14
+Link,13,42,6
+Yoshi,9,15,20
+Marth,45,65,3
+Ness,10,23,4
+Captain Falcon,5,62,12
+Luigi,12,34,5
+Ganon,12,34,5
+Pit,23,45,7
+King Dedede,7,6,5
+Ike,6,7,7
+Ridley,8,9,12
+Captain Olimar,12,3,45
+Ryu,45,67,8
+Wario,23,45,67
+Meta Knight,12,34,56
+Princess Zelda,23,45,67
+Diddy Kong,4,88,9
+Palutena,34,5,6
+Little Mac,7,8,9
+Bowser Jr,67,8,0
+Shulk,23,4,23
+Rosalina,33,23,44
+Mii,2,2,2
+Lucina,34,5,9
+Kirby,55,66,77
+Pac-Man,22,32,41
+Mario,12,23,44
+Princess Peach,34,2,1
+Sonic the Hedgehog,2,2,6
+Fox McCloud,44,5,77
+Mega Man,32,2,4
+Toon Link,21,12,32
