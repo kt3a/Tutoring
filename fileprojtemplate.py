@@ -25,7 +25,8 @@ def main():
 
     #file reading goes here
     ##use the split() function
-    
+    master = []
+    file1 = open('s
    
 
 main()

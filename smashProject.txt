@@ -33,3 +33,23 @@ Sonic the Hedgehog,2,2,6
 Fox McCloud,44,5,77
 Mega Man,32,2,4
 Toon Link,21,12,32
+BIRDY,34,23,2,water
+BISCUIT,34,5,6,fire
+BISHOP,4,5,6,medicine maker
+ABIGAIL,45,7,8,spells
+ACE,12,12,2,potions
+ADAM,34,5,6,wind
+COOKIE,44,1,65,medicinal food
+COOPER,33,22,4,earth
+CORKY,3,4,7,fire
+FLOPSY,44,33,8,water
+FLOWER,23,5,99,flower
+FLOYD,435,5,6,sun
+GINNY,22,3,222,gluten-free
+GIZMO,43,53,63,plant
+GODIVA,44,54,23,animal
+HARPO,3,77,990,resourceful
+HARRISON,23,4,55,gems
+HARRY,3,3,3,herbology
+HARVEY,54,66,7,cosmos
+HEATHER,56,65,65,mist

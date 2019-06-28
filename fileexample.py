@@ -8,6 +8,8 @@ def count():
   return num_words
 print("The number of words is ",count())
 
+
+
 def count_the():
   num_the = {'the': 0}
   file2 = open("alice.txt", 'r')
