@@ -35,9 +35,12 @@ for i in range(1, len(arr)):
     # greater than key, to one position ahead 
     # of their current position 
     j = i-1
-    while j >=0 and key < arr[j] : 
-            arr[j+1] = arr[j] 
+    while j >=0 and key < arr[j] :
+            print("start j ", arr[j], "key: ", key)
+            arr[j+1] = arr[j]
+            print("j: ",arr[j], "i: ", arr[j+1])
             j -= 1
+            print("j: ",arr[j], "i: ", arr[j+1])
     arr[j+1] = key
 
 print("Sorted with Insertion Sort: ")
